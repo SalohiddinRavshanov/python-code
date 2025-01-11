@@ -36,3 +36,7 @@ async def bot_start(message: types.Message):
     # await bot.send_message(chat_id=ADMINS[0],text=msg)
     await message.answer(f'salom botga xush kelibsiz!\n'
                                   f'✅ Botdan to\'liq foydalanishingiz mumkin!', reply_markup=bosh_sahifa)
+
+
+
+# fghjkl;dfghjkl;dfghjkldfghjkl;'
